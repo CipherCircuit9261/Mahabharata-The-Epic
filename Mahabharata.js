@@ -1,6 +1,6 @@
 // Console log messages
 // Log the introduction with personal details
-console.log("I am SoftwareEngineer2010, I am 14 years old, and I am from America.");
+console.log("I am CipherCircuit9261, I am 14 years old, and I am from America.");
 
 // Welcome message for visitors of the Mahabharata website
 console.log("Welcome to Mahabharata website.");
