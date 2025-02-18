@@ -14,43 +14,8 @@ ul {
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   background-color: rgb(153, 105, 42);
   width: 100%;
-  animation-name: example;
-  animation-duration: 4s;
-  animation-timing-function: linear;
-  animation-delay: 2s;
-  animation-iteration-count: 2;
-  animation-direction: alternate;
 
 
-}
-
-@keyframes example {
-  0% {background-color:red; left:0px; top:0px;}
-  25%  {background-color:yellow; left:100px; top:0px;}
-  50%  {background-color:blue; left:100px; top:100px;}
-  75%  {background-color:green; left:0px; top:100px;}
-  100% {background-color:lightskyblue; left:0px; top:0px;}
-}
-
-
-
-
-@keyframes example2 {
-  0% {background-color:red; left:0px; top:0px;}
-  25%  {background-color:yellow; left:100px; top:0px;}
-  50%  {background-color:blue; left:100px; top:100px;}
-  75%  {background-color:green; left:0px; top:100px;}
-  100% {background-color:lightskyblue; left:0px; top:0px;}
-}
-
-
-
-@keyframes example3 {
-  0% {background-color:red; left:0px; top:0px;}
-  25%  {background-color:yellow; left:100px; top:0px;}
-  50%  {background-color:blue; left:100px; top:100px;}
-  75%  {background-color:green; left:0px; top:100px;}
-  100% {background-color:lightskyblue; left:0px; top:0px;}
 }
 
 
@@ -183,12 +148,7 @@ button
   color: red;
   font-size: 70px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  animation-name: example3;
-  animation-duration: 4s;
-  animation-iteration-count:2;
-  animation-timing-function: linear;
-  animation-direction: alternate;
-  animation-delay: 2s;
+
   text-align: center;
 }
 
@@ -213,12 +173,7 @@ color:black
   border-radius:5px;
   border-style: ridge;
   border-color: black;
-  animation-name: example;
-  animation-duration: 4s;
-  animation-timing-function: linear;
-  animation-delay: 2s;
-  animation-iteration-count: 2;
-  animation-direction: alternate;
+
 
 
 }
@@ -227,12 +182,7 @@ color:black
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 30px;
   background: blue;  
-  animation-name: example2;
-  animation-duration: 4s;
-  animation-timing-function: linear;
-  animation-delay: 2s;
-  animation-iteration-count: 2;
-  animation-direction: alternate;
+
 }
 
 
@@ -260,13 +210,8 @@ border: dotted;
 p {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 30px;
-  background: blue;  
-  animation-name: example2;
-  animation-duration: 4s;
-  animation-timing-function: linear;
-  animation-delay: 2s;
-  animation-iteration-count: 2;
-  animation-direction: alternate;
+  background: lightbrown;  
+
 
 }
 
