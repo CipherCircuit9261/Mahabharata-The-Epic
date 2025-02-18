@@ -29,15 +29,14 @@ document.getElementById("HomepagePart2").innerHTML ="<p>The central narrative of
 
 function restore(){
 document.getElementById("HomepagePart2").innerHTML = "<p>The Mahabharata is one of the two major Sanskrit epics of ancient India, the other being the Ramayana. It is a monumental work in Hindu literature and is considered both a historical and philosophical text. It is traditionally attributed to the sage Vyasa, who is also a character in the epic. It is believed to have been composed over several centuries, with its final form taking shape around 400 BCE to 400 CE.</p>";
-}
+} 
 function Next1() {
-document.getElementById("Chapter1parttwo").innerHTML = "<p>The Mahabharata begins in celestial realms with sage Vyasa detailing the divine origin of the Bharata dynasty. King Shantanu, a paragon of virtue, marries Ganga, the river goddess. Their union brings forth Bhishma, a godlike warrior bound by an oath of celibacy to ensure his father can remarry.</p>";
-}
-
-function restore1() {
 document.getElementById("Chapter1parttwo").innerHTML = "<p>Bhishma's sacrifice is monumental, laying the foundation for the future of Hastinapura. Satyavati, Shantanu's next queen, brings her own mystical lineage, giving birth to Chitrangada and Vichitravirya. Their untimely deaths lead to Vyasa fathering Dhritarashtra, Pandu, and Vidura, ensuring the line continues.</p>";
 }
 
+function restore1() {
+document.getElementById("Chapter1parttwo").innerHTML = "<p>The Mahabharata begins in celestial realms with sage Vyasa detailing the divine origin of the Bharata dynasty. King Shantanu, a paragon of virtue, marries Ganga, the river goddess. Their union brings forth Bhishma, a godlike warrior bound by an oath of celibacy to ensure his father can remarry.</p>";
+}
 function Next2() {
 document.getElementById("Chapter2parttwo").innerHTML = "<p>Dhritarashtra, blind but noble, and his hundred sons, the Kauravas, led by Duryodhana, embody Kshatriya pride. Pandu, Dhritarashtra's righteous brother, marries Kunti and Madri. Kunti's divine boon brings forth Yudhishthira from Dharma, Bhima from Vayu, and Arjuna from Indra. Madri invokes the Ashwini twins, birthing Nakula and Sahadeva.</p>";
 }
